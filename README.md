@@ -1,1 +1,1 @@
-# Secondhand-Hounds---Intake-Outcomes-Calculator
+# Secondhand-Hounds Intake-Outcomes-Calculator
